@@ -1,8 +1,6 @@
 class Car:
-    # write your code here
-    pass
+    def __init__(self, name: str):
 
 
 class CarWashStation:
-    # write your code here
-    pass
+    print("hello")
